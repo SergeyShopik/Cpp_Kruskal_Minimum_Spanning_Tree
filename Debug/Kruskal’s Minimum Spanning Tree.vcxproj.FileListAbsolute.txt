@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\Kruskal’s Minimum Spanning Tree\Debug\Kruskal’s Minimum Spanning Tree.exe
+C:\Users\HP\source\repos\Kruskal’s Minimum Spanning Tree\Debug\Kruskal’s Minimum Spanning Tree.pdb
